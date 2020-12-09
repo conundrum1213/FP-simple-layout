@@ -1,0 +1,180 @@
+Before we get started, here is a list of the websites that will be helping us!
+(Note: no account, sign up, or login is currently required to use any of these websites!)
+
+https://www.pexels.com/
+https://pixlr.com/
+https://imgur.com/ (or https://postimages.org/)
+
+I'm doing this tutorial on a laptop with the Firefox web browser.
+
+The highlight of this layout is the kennel banner, so let's start with that!
+
+Go to https://www.pexels.com/
+
+(these are free to use stock photos with no attribution required. i love this site! see https://www.pexels.com/license/ for full liscense details).
+
+I like to feature one of my main breeds on m banner, so let's search for our main breed!
+
+<img src="https://i.imgur.com/lTh9eV1.png" alt="lTh9eV1.png" width="450">
+
+<img src="https://i.imgur.com/zpyz6cg.png" alt="zpyz6cg.png" width="450">
+
+I like this image of Labradors outside in nature, so I'm goig to pick this one!
+
+<img src="https://i.imgur.com/gU6H3xJ.png" alt="gU6H3xJ.png" width="450">
+
+I'm going to double check the license, to make sure I can use this image
+
+<img src="https://i.imgur.com/NTCrcnh.png" alt="NTCrcnh.png" width="450">
+
+Looks good!
+
+<img src="https://i.imgur.com/VZL4EP9.png" alt="VZL4EP9.png" width="450">
+
+Choose download, and since the Furry Paws menu is about 700 pixels wide, I'm going to choose the "Medium" size download.
+
+A download dialogue will pop-up and you can choose where to save your file.
+
+<img src="https://i.imgur.com/MkwlYoD.png" alt="MkwlYoD.png" width="450">
+
+I am using Firefox, and my files automatically go to my "Downloads" folder, which I can access by clicking this icon.
+
+<img src="https://i.imgur.com/u1oP5GX.png" alt="u1oP5GX.png" width="450">
+
+<img src="https://i.imgur.com/ctR0DBY.png" alt="ctR0DBY.png" width="450">
+
+Now, we're going to go edit the image into a pretty banner!
+
+Go to https://pixlr.com/ (off site link)
+
+I like to use Pixlr E (the basic version) so that is what I will use for this tutorial, but if you are feeling adventurous, check out Pixlr X for the advanced, more Photoshop-like version!
+
+<img src="https://i.imgur.com/24sW6oj.png" alt="24sW6oj.png" width="450">
+
+We're going to open up stock photo now!
+
+We can either browse out to the image location, or we can drag and drop!
+
+<img src="https://i.imgur.com/mXrTfhE.png" alt="mXrTfhE.png" width="450">
+
+I'm going to add the text first, since I like to play with the layout before cropping
+
+<img src="https://i.imgur.com/IC4k1xn.png" alt="IC4k1xn.png" width="450">
+
+Click the "Add New Text" button, and some text will appear along with options to edit!
+
+<img src="https://i.imgur.com/wy15JoV.png" alt="wy15JoV.png" width="450">
+
+Edit the content of the text field over on the left (the text over the image will update automatically)
+
+<img src="https://i.imgur.com/bjtSg6N.png" alt="bjtSg6N.png" width="450">
+
+Next, just play around with the placement of the text, the font, and the color, until you are happy!
+
+<img src="https://i.imgur.com/cYlOzTI.png" alt="cYlOzTI.png" width="450">
+
+<img src="https://i.imgur.com/Fhpk2Nm.png" alt="Fhpk2Nm.png" width="450">
+
+<img src="https://i.imgur.com/We0QEg1.png" alt="We0QEg1.png" width="450">
+
+If you need it, there is a handy litte "Undo" button in the lower right!
+
+Once we are happy with the layout, we need to crop it so that it doesn't take up more space than necassary
+
+<img src="https://i.imgur.com/oEudeOA.png" alt="oEudeOA.png" width="450">
+
+Click and drag corners to adjust crop.
+
+My goal is to take out an excess dead space on the top and bottom, to give the image a more horizontal layout, so that it can function as a banner/header!
+
+<img src="https://i.imgur.com/NeUtkWy.png" alt="NeUtkWy.png" width="450">
+
+Once you are happy with the crop, go ahead and click "Apply" in the lower left!
+
+<img src="https://i.imgur.com/uaxkl2w.png" alt="uaxkl2w.png" width="450">
+
+<img src="https://i.imgur.com/uUz2mKU.png" alt="uUz2mKU.png" width="450">
+
+That is a beautiful banner!  Let's click "Save"!
+
+<img src="https://i.imgur.com/5Qbm177.png" alt="5Qbm177.png" width="450">
+
+Click PNG file type (unless you really want a JPG)
+
+The super important thing here is that we want to set the Width of the banner to 700 pixels (this is the width of the Furry Paws "active" area of the website, that stands in front of the colored background). We don't want to exceed this, or we will stretch out the screen.
+
+Name your file, click download, and save!
+
+Now, go to your image hosting website (I used Imgur)
+
+<img src="https://i.imgur.com/EBtfPNq.png" alt="EBtfPNq.png" width="450">
+
+Click on "New post" in the upper left
+
+We're going to drag and drop our edited banner into Imgur!
+
+<img src="https://i.imgur.com/JUXJpXz.png" alt="JUXJpXz.png" width="450">
+
+<img src="https://i.imgur.com/fAsxI0D.png" alt="fAsxI0D.png" width="450">
+
+Make you upload the edited banner image, and not the original stock photo
+(I seem to make this mistake!)
+
+Right click on the image and in the drop menu there should be an option for "View image" or "open image in new tab" - click this option!
+
+Once the image opens up in its own tab, go to the URL bar and copy that URL ending in .png (or .jpg)
+
+<img src="https://i.imgur.com/quk3MIi.png" alt="quk3MIi.png" width="450">
+
+I paste this banner URL in a blank text document, for safe keeping.
+
+Next we are going to grab the ID numbers of our featured dogs!
+
+Go to each dog's page, and copy the ID at the end of their URL
+
+<img src="https://i.imgur.com/9Nx1mmg.png" alt="9Nx1mmg.png" width="450">
+
+These ID numbers also go in the text document with the banner URL.
+
+<img src="https://i.imgur.com/6ed4Wpt.png" alt="6ed4Wpt.png" width="450">
+
+Now we go to the Settings page on FP, and scroll down to the CSS Styles and Description
+
+Warning Off-Site link:
+<a href="https://github.com/conundrum1213/FP-simple-layout/blob/main/CSS_Styles.css">Paste this code (6 lines) into the CSS Styles</a>
+
+Warning Off-Site link:
+<a href="https://github.com/conundrum1213/FP-simple-layout/blob/main/Description.html">Paste this code (53 lines) into the Description</a>
+
+<img src="https://i.imgur.com/N0vRRvz.png" alt="N0vRRvz.png" width="450">
+
+Now we paste in our custom information (our banner and our featured dogs)
+
+<img src="https://i.imgur.com/cP7NVb0.png" alt="cP7NVb0.png" width="450">
+
+Banner URL goes near the top, where it is tagged "Insert your banner URL here"
+
+<img src="https://i.imgur.com/gzUsLWr.png" alt="gzUsLWr.png" width="450">
+
+Copy the first dog's ID number into these first two URLs (the first one is the small image of the dog, the second one is the link to the dog's page).
+
+Copy the dog's name, so it displays for the URL to his/her page (in this case, Aspen).
+
+And copy whatever special info you want to share about the dog! (in this case, that the Aspen reached level 63!)
+
+If you want to share multiple lines of information about the dog, just add <*br> after each row of info (but remove the * so that it functions properly).
+
+For example:
+First level 63!<*br>
+My favorite dog!<*br>
+The cutest dog!
+
+Fill out each dog the same way (up to 5 dogs total)
+
+Okay, so suppose you have less than 5 dogs to feature, you can delete any dog by removing the portion of code starting with N "Featured dog" and ending with the following "td" tag
+
+<img src="https://i.imgur.com/AfZcxAo.png" alt="AfZcxAo.png" width="450">
+
+Edit the Introduction text (or remove), and edit the ending text (or remove)
+
+Click save!
